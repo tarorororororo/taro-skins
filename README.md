@@ -1,4 +1,7 @@
 # If you would like a skin not listed here, let me know, then I will happily upload for you; [osu! DM](https://osu.ppy.sh/home/messages/users/13586618), or Discord (taro#1181)
+i usually just use the default varvalian skin and default rafis skin cuz i suck at changing stuff
+
+area 140mm forced aspect ratio, hawku tablet driver 26ms @ 500hz
 
 ## [taro](https://taro.s-ul.eu/JNw7novc)
 [![](https://cdn.discordapp.com/attachments/869530253687685170/1107133094852571357/screenshot052.jpg)](https://taro.s-ul.eu/JNw7novc)
