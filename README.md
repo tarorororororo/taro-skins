@@ -3,17 +3,20 @@ i usually just use the default varvalian skin and default rafis skin cuz i suck 
 
 full area forced aspect ratio, 1366x768, hawku tablet driver 26ms @ 500hz
 
-## [taro](https://taro.s-ul.eu/JNw7novc)
+## [varvalian](https://taro.s-ul.eu/HgWSRYAI)
+[![](https://cdn.discordapp.com/attachments/869530253687685170/1107135231842058280/image.png)](https://taro.s-ul.eu/HgWSRYAI)
+
+## [Rafis 2017-08-10](https://taro.s-ul.eu/wU4xeu9T)
+[![](https://osu.ppy.sh/ss/18578199/020e)](https://taro.s-ul.eu/wU4xeu9T)
+
+## [taro varv edit](https://taro.s-ul.eu/JNw7novc)
 [![](https://cdn.discordapp.com/attachments/869530253687685170/1107133094852571357/screenshot052.jpg)](https://taro.s-ul.eu/JNw7novc)
 
-## [taro dt](https://taro.s-ul.eu/18SFpsAZ)
+## [taro dt edit](https://taro.s-ul.eu/18SFpsAZ)
 [![](https://cdn.discordapp.com/attachments/869530253687685170/1107133095129387028/screenshot053.jpg)](https://taro.s-ul.eu/18SFpsAZ)
 
 ## [ootsuha](https://taro.s-ul.eu/tjTnhZdy)
 [![](https://cdn.discordapp.com/attachments/869530253687685170/1107131752520101989/screenshot048.jpg)](https://taro.s-ul.eu/tjTnhZdy)
-
-## [varvalian](https://taro.s-ul.eu/HgWSRYAI)
-[![](https://cdn.discordapp.com/attachments/869530253687685170/1107135231842058280/image.png)](https://taro.s-ul.eu/HgWSRYAI)
 
 ## [vaxei](https://taro.s-ul.eu/dXxZrlVk)
 [![](https://cdn.discordapp.com/attachments/869530253687685170/1107133095406219336/screenshot054.jpg)](https://taro.s-ul.eu/dXxZrlVk)
