@@ -9,32 +9,7 @@ full area forced aspect ratio, 1366x768, hawku tablet driver 26ms @ 500hz
 
 ## [hu tao](https://cdn.discordapp.com/attachments/1164039315341459577/1213569018946912256/taro_hu_tao.osk?ex=65f5f339&is=65e37e39&hm=fde265975a2650416a3231b5e2f34d82b52c8b9c57a47d4e5ad560b9fd951c2a&)
 
-## [varvalian](https://taro.s-ul.eu/HgWSRYAI)
-[![](https://cdn.discordapp.com/attachments/869530253687685170/1107135231842058280/image.png)](https://taro.s-ul.eu/HgWSRYAI)
-
-## [Rafis 2017-08-10](https://taro.s-ul.eu/wU4xeu9T)
-[![](https://osu.ppy.sh/ss/18578199/020e)](https://taro.s-ul.eu/wU4xeu9T)
-
-## [taro varv edit](https://taro.s-ul.eu/JNw7novc)
-[![](https://cdn.discordapp.com/attachments/869530253687685170/1107133094852571357/screenshot052.jpg)](https://taro.s-ul.eu/JNw7novc)
-
-## [taro dt edit](https://taro.s-ul.eu/18SFpsAZ)
-[![](https://cdn.discordapp.com/attachments/869530253687685170/1107133095129387028/screenshot053.jpg)](https://taro.s-ul.eu/18SFpsAZ)
-
 ## [ootsuha](https://taro.s-ul.eu/tjTnhZdy)
-[![](https://cdn.discordapp.com/attachments/869530253687685170/1107131752520101989/screenshot048.jpg)](https://taro.s-ul.eu/tjTnhZdy)
-
-## [vaxei](https://taro.s-ul.eu/dXxZrlVk)
-[![](https://cdn.discordapp.com/attachments/869530253687685170/1107133095406219336/screenshot054.jpg)](https://taro.s-ul.eu/dXxZrlVk)
-
-## [vaxei dt](https://taro.s-ul.eu/w1OGNt1p)
-[![](https://osu.ppy.sh/ss/13421907/707a)](https://taro.s-ul.eu/w1OGNt1p)
-
-## [rektygon](https://taro.s-ul.eu/mEiiCgvy)
-[![](https://cdn.discordapp.com/attachments/869530253687685170/1107133094290534431/screenshot050.jpg)](https://taro.s-ul.eu/mEiiCgvy)
-
-## [norman](https://taro.s-ul.eu/6C5dmm0W)
-[![](https://cdn.discordapp.com/attachments/869530253687685170/1107133849705652325/image.png)](https://taro.s-ul.eu/6C5dmm0W)
 
 <p align="center">
 <a href="https://osu.ppy.sh/users/13586618"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/1024px-Osu%21_Logo_2016.svg.png" width="48"></a>
