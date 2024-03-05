@@ -11,6 +11,8 @@ full area forced aspect ratio, 1366x768, hawku tablet driver 26ms @ 500hz
 
 ### [miku 2024 DT](https://taro.s-ul.eu/HehdS3sF)
 
+### [miku 2024 aricin](https://drive.google.com/file/d/1N5SID_qqLoVkkvNnY2hz1BK7WnHEA-oa/view?usp=sharing)
+
 ### [hu taro](https://taro.s-ul.eu/5JruvqHQ)
 
 ### [ootsuha](https://taro.s-ul.eu/tjTnhZdy)
