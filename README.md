@@ -20,7 +20,10 @@ full area forced aspect ratio, 1366x768, hawku tablet driver 26ms @ 500hz
 ### [reimu blue cursor normal sliderball](https://cdn.discordapp.com/attachments/992156163099607131/1035785983439949896/reimu_-_blue_cursor_normal_sliderball.osk?ex=65f52cde&is=65e2b7de&hm=1570a5d936ba62272d46adc10f11bb7b78a1a2c3e3f05f01bdcd44ffd7b2a334&)
 
 ### [reimu kamui cursor ene sliderball](https://cdn.discordapp.com/attachments/992156163099607131/1035785983830003773/reimu_-_kamui_cursor_ene_sliderball.osk?ex=65f52cde&is=65e2b7de&hm=cdf4e546a50949114d1f72d09bb7783664027e3526ab28fe512b349a27d4308a&)
+&nbsp;
+## edits
 
+### [vaxedit (21 april 2024)](https://files.catbox.moe/yjmcx2.osk)
 <p align="center">
 <a href="https://osu.ppy.sh/users/13586618"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/1024px-Osu%21_Logo_2016.svg.png" width="48"></a>
 <a href="https://www.youtube.com/channel/UCQYl9IjVQDvESjWa5gTQKFg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Youtube-variation.png/640px-Youtube-variation.png" width="48"></a>
